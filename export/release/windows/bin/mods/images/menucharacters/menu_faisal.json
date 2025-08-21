@@ -1,0 +1,11 @@
+{
+	"idle_anim": "faisal_menu idle",
+	"image": "faisal_menu",
+	"position": [
+		2330,
+		1170
+	],
+	"flipX": false,
+	"scale": 0.2,
+	"confirm_anim": "M Dad Idle"
+}

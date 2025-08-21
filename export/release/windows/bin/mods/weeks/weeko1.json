@@ -1,0 +1,51 @@
+{
+	"songs": [
+		[
+			"false-live",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dead-and-dead",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"exehausted",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"menu_faisal",
+		"menu_bf",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "BF_main_menu idle",
+	"position": [
+		2400,
+		1170
+	],
+	"scale": 0.2,
+	"image": "BF_main_menu",
+	"flipX": false
+}

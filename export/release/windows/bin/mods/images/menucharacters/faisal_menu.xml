@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="faisal_menu.png">
+<SubTexture name="faisal_menu idle0000" x="0" y="0" width="2063" height="3030" frameX="-326" frameY="-8" frameWidth="5350" frameHeight="3038" />
+<SubTexture name="faisal_menu idle0001" x="2063" y="0" width="2275" height="3030" frameX="-213" frameY="-8" frameWidth="5350" frameHeight="3038" />
+<SubTexture name="faisal_menu idle0002" x="4338" y="0" width="2115" height="3030" frameX="-324" frameY="-8" frameWidth="5350" frameHeight="3038" />
+</TextureAtlas>

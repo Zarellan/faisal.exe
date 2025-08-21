@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tmf down"
+		},
+		{
+			"offsets": [
+				24,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tmf left"
+		},
+		{
+			"offsets": [
+				18,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tmf up"
+		},
+		{
+			"offsets": [
+				3,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tmf right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "",
+			"fps": 24,
+			"name": "",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 22,
+			"name": "tmf idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tmf_sprit",
+	"position": [
+		-40,
+		-140
+	],
+	"healthicon": "faisal",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		150,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
